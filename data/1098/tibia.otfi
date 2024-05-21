@@ -1,0 +1,9 @@
+DatSpr
+  extended: true
+  transparency: true
+  frame-durations: true
+  frame-groups: true
+  metadata-file: PXG.dat
+  sprites-file: PXG.spr
+  sprite-size: 32
+  sprite-data-size: 4096
